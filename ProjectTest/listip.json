@@ -1,0 +1,6 @@
+{
+	"localIp": "localhost",
+	"controller": "onos", 
+	"communication": [
+	]
+}
